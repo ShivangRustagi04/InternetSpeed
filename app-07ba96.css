@@ -224,7 +224,7 @@ div.logo-container {
 div.logo-centered {
     height: 20vh;
     width: 20vh;
-    background:url(assets/new-logo-vert-37861c.png);
+    background:url(fast.com/assets/new-logo-vert-37861c.png);
     /* background: #000; */
     background-position: center;
     background-size: cover;
@@ -237,12 +237,12 @@ div.powered-by {
     height: 2vh;
     width: 17vh;
     margin-top: 1vh;
-    background: url(assets/poweredby-fit-4f0259.png) no-repeat center;
+    background: url(fast.com/assets/poweredby-fit-4f0259.png) no-repeat center;
     background-size: contain;
     -webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;
-    background: url(assets/poweredby-865a3b.svg) no-repeat center, linear-gradient(transparent, transparent)
+    background: url(fast.com/assets/poweredby-865a3b.svg) no-repeat center, linear-gradient(transparent, transparent)
 }
 
 .speed-container {
